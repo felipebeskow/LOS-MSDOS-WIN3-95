@@ -1,0 +1,7 @@
+These aren't the original floppy images from Windows 3.1. The contents were
+originally bundled together in one ISO image, and had to be split up into
+floppy images. Disk 1 is correct, but the following disks didn't have enough
+space and the remaining contents overflowed to the following disk. So when
+installing Windows you'll need to do some more disk swapping than usual. If it
+says "Read Error" mount the next disk, if it asks for a disk number mount that
+disk and if it isn't satisfied mount the following disk, etc.
